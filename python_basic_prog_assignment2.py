@@ -1,12 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
+
 
 # # Programming_Assignment2
 
 # 1. Write a Python program to convert kilometers to miles?
-
-# In[1]:
-
 
 def convert():
     km=int(input("enter the kilometer  "))
@@ -17,9 +13,6 @@ convert()
 
 
 # 2. Write a Python program to convert Celsius to Fahrenheit?
-
-# In[27]:
-
 
 def cel_to_fah():
     cel=float(input("enter the celsius value"))
@@ -32,9 +25,6 @@ cel_to_fah()
 
 # 3. Write a Python program to display calendar?
 
-# In[34]:
-
-
 import calendar
 def calender():
     yy=int(input("enter year in yyyy format")) # year in YYYY
@@ -44,11 +34,8 @@ def calender():
 calender()    
 
 
-# 
+ 
 # 4. Write a Python program to solve quadratic equation?
-
-# In[2]:
-
 
 import math
 def quadequation():  #ax^2+bx+c and a!=0
@@ -74,9 +61,6 @@ quadequation()
 
 # 5. Write a Python program to swap two variables without temp variable?
 
-# In[2]:
-
-
 def swap():
     first_number=int(input("enter the first number  "))
     second_number=int(input("enter the second number  "))
@@ -88,15 +72,6 @@ def swap():
 swap()
 
 
-# In[32]:
-
-
-a=10
-b=12
-print(a,'+j',b)
-
-
-# In[ ]:
 
 
 
