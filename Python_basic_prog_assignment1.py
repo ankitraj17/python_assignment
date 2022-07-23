@@ -1,7 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # Programming_Assignment1
+## Programming_Assignment1
 
 # 1. Write a Python program to print "Hello Python"?
 
@@ -69,14 +67,6 @@ def randomnumber():
     print(num)
 randomnumber()    
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
