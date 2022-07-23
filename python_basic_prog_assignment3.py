@@ -1,12 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
+
 
 # # Programming_Assignment3
 
 # 1. Write a Python Program to Check if a Number is Positive, Negative or Zero?
-
-# In[9]:
-
 
 def checknumber():
     num=int(input("enter the number "))
@@ -21,9 +17,6 @@ checknumber()
 
 # 2. Write a Python Program to Check if a Number is Odd or Even?
 
-# In[12]:
-
-
 def evenodd():
     num=int(input("enter the number "))
     if num%2==0:
@@ -35,8 +28,6 @@ evenodd()
 
 
 # 3. Write a Python Program to Check Leap Year?
-
-# In[15]:
 
 
 def leapyear():
@@ -51,8 +42,6 @@ leapyear()
 
 
 # 4. Write a Python Program to Check Prime Number?
-
-# In[26]:
 
 
 def prime():
@@ -72,8 +61,6 @@ prime()
 
 # 5. Write a Python Program to Print all Prime Numbers in an Interval of 1-10000?
 
-# In[33]:
-
 
 def prime():
     for num in range(2,10000):
@@ -86,7 +73,7 @@ def prime():
 prime()          
 
 
-# In[ ]:
+
 
 
 
