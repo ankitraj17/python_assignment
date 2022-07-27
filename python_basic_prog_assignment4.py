@@ -1,15 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
+
 
 # # Programming_Assignment4
 
-# In[ ]:
+1. Write a Python Program to Find the Factorial of a Number?
 
 
-get_ipython().set_next_input('1. Write a Python Program to Find the Factorial of a Number');get_ipython().run_line_magic('pinfo', 'Number')
-
-
-# In[4]:
 
 
 def factorial():
@@ -21,13 +16,12 @@ def factorial():
 factorial()    
 
 
-# In[ ]:
 
 
-get_ipython().set_next_input('2. Write a Python Program to Display the multiplication Table');get_ipython().run_line_magic('pinfo', 'Table')
+2. Write a Python Program to Display the multiplication Table?
 
 
-# In[4]:
+
 
 
 def table():
@@ -37,13 +31,13 @@ def table():
 table()        
 
 
-# In[ ]:
 
 
-get_ipython().set_next_input('3. Write a Python Program to Print the Fibonacci sequence');get_ipython().run_line_magic('pinfo', 'sequence')
+
+3. Write a Python Program to Print the Fibonacci sequence?
 
 
-# In[7]:
+
 
 
 def fibonacci():
@@ -63,13 +57,10 @@ def fibonacci():
 fibonacci()        
 
 
-# In[ ]:
+4. Write a Python Program to Check Armstrong Number?
 
 
-get_ipython().set_next_input('4. Write a Python Program to Check Armstrong Number');get_ipython().run_line_magic('pinfo', 'Number')
 
-
-# In[6]:
 
 
 def armstrong():
@@ -86,14 +77,9 @@ def armstrong():
         print("Not a Armstrong Number")
 armstrong()        
 
-
-# In[ ]:
-
-
-get_ipython().set_next_input('5. Write a Python Program to Find Armstrong Number in an Interval');get_ipython().run_line_magic('pinfo', 'Interval')
+5. Write a Python Program to Find Armstrong Number in an Interval?
 
 
-# In[2]:
 
 
 def armstrong():
@@ -112,12 +98,7 @@ def armstrong():
         
 armstrong()
 
-
-# In[ ]:
-
-
-get_ipython().set_next_input('6. Write a Python Program to Find the Sum of Natural Numbers');get_ipython().run_line_magic('pinfo', 'Numbers')
-
+6. Write a Python Program to Find the Sum of Natural Numbers?
 
 # In[2]:
 
